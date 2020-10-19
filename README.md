@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jiancheng Du</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **Transaction Management System for CheaprEats**
+- 🔭 I completed a transaction management system project **CheaprEats**
+
+- 🔭 I’m currently seeking an entry level job of full stack developer 
 
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
