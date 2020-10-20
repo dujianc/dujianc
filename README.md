@@ -3,7 +3,7 @@
 
 - 🔭 I completed a transaction management system project for **CheaprEats**
 
-- 🔭 I’m currently seeking an entry level job of full stack developer 
+- 🔭 I’m currently seeking **an entry level job of full stack developer** 
 
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
