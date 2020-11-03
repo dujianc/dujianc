@@ -3,8 +3,6 @@
 
 - 🔭 I completed a transaction management system project for **CheaprEats**
 
-- 🔭 I’m currently seeking **an entry level job of full stack developer** 
-
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
 - 👯 I’m looking to collaborate on **any frontend, backend, or full stack development project**
@@ -14,8 +12,6 @@
 - 💬 Ask me about **C#, JavaScript, NodeJS, React, Mocha, SQL and MongoDB**
 
 - 📫 How to reach me **jiancheng.du@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jianchengdu/](https://www.linkedin.com/in/jianchengdu/)
 
 - 📄 Know about myself [https://dujianc.github.io](https://dujianc.github.io)
 
