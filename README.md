@@ -16,7 +16,7 @@
 - 📄 Know about myself [https://dujianc.github.io](https://dujianc.github.io)
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">To knpw my other skills, connect with me:</h3>
 <a href="https://linkedin.com/in/jianchengdu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jianchengdu" height="30" width="40" /></a>
 </p>
 
