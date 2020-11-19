@@ -3,7 +3,7 @@
 
 - 🔭 I completed a transaction management system project for **CheaprEats**
 
-- 🌱 I’m currently learning **Vue, Angular and TypeScript**
+- 🌱 I’m currently learning **Vue, Angular, PHP and TypeScript**
 
 - 👯 I’m looking to collaborate on **any frontend, backend, or full stack development project**
 
