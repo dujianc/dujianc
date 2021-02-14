@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jiancheng.du@gmail.com**
 
-- 📄 Know about myself [https://dujianc.github.io](https://dujianc.github.io) OR [https://jiancheng-du.epizy.com](https://jiancheng-du.epizy.com)
+- 📄 Know about myself [https://dujianc.github.io](https://dujianc.github.io)
 
 <p align="left">
 <h3 align="left">To know my other skills, connect with me:</h3>
