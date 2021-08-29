@@ -15,7 +15,7 @@
 
 - 📄 Know about myself [https://dujianc.github.io](https://dujianc.github.io) OR [https://jdu.great-site.net](https://jdu.great-site.net)
 
-- 📄 Visit my LinkedIn Profile [https://dujianc.github.io](https://dujianc.github.io)
+- 📄 Visit my LinkedIn Profile [https://www.linkedin.com/in/jianchengdu/](https://www.linkedin.com/in/jianchengdu/)
 
 <p align="left">
 <h3 align="left">To know my other skills, connect with me:</h3>
