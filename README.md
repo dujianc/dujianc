@@ -28,7 +28,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> css </a> 
   <a href="https://www.docker.com/" target="_blank"> docker </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank"> dotnet </a> 
-  <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+  <a href="https://www.electronjs.org" target="_blank"> electronjs </a> 
   <a href="https://expressjs.com" target="_blank"> express </a> 
   <a href="https://www.w3.org/html/" target="_blank"> html </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> javascript </a> 
